@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class App {
 
 	public static void main(String[] args) {
-		//makes static reference or call
+		//makes static reference or call to methods. Static methods doesn't need to create an object
 		exercise1();
     	primitives();
     	branching();
