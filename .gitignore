@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-/target/
-=======
+
 # Compiled class file
 *.class
 
@@ -22,6 +20,11 @@
 *.tar.gz
 *.rar
 
+# Eclipse Core      
+.project
+
+# JDT-specific (Eclipse Java Development Tools)     
+.classpath
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
->>>>>>> 0a6458dcd881f613ebde364e6eee7643d2b62ba5
+
