@@ -18,7 +18,7 @@ public class UserMainCode {
 	}
 	
 	public static int checkCharacters(String s) {
-		String start = Character.toString(s.charAt(0));
+		String start = Character.toString(s.charAt(0)); 
 		String end = Character.toString(s.charAt(s.length()-1));
 		if(start.equalsIgnoreCase(end)) {
 			return 1;
